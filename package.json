@@ -1,4 +1,14 @@
+
 {
+"name": "Dev-journal",
+  "version": "1.0.0",
+  "description": "My Node.js backend project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+
+
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
@@ -6,5 +16,6 @@
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.16.0"
+    
   }
 }
